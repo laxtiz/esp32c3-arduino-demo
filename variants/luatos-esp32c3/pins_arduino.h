@@ -1,7 +1,6 @@
 #ifndef Pins_Arduino_h
 #define Pins_Arduino_h
 
-#include "soc/soc_caps.h"
 #include <stdint.h>
 
 #define EXTERNAL_NUM_INTERRUPTS 22
